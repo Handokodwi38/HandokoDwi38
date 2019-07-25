@@ -18,7 +18,7 @@ public class InsertListUrut {
 
         Collections.sort(daftarAngka);
         System.out.println("Setelah Diurutkan");
-            System.out.println(daftarAngka);
+        System.out.println(daftarAngka);
     }
 
 }
