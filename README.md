@@ -3,7 +3,7 @@
 <font color=grey>
 <marquee><h1>WELCOME TO MY GITHUB REPOSITORY</h1></marquee>
 <br>
-  <a href="http://istn.ac.id"><img src="istn.png"></a>
+  <a href="http://istn.ac.id"><img width=30% src="istn.png"></a>
 <pre>
 NAMA    : Handoko Dwi Putra
 NIM     : 18360041
