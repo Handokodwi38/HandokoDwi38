@@ -6,7 +6,7 @@
   <a href="http://istn.ac.id"><img width=20% src="istn.png"></a>
 <pre>
 <br>
-<img width=20% src="PasFotooBgMerah.jpg">
+<img width=20% src="Pas Fotoo Bg Merah.jpg">
 NAMA    : Handoko Dwi Putra
 NIM     : 18360041
 Jurusan : Teknik Informatika
