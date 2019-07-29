@@ -5,9 +5,10 @@
 <br>
   <a href="http://istn.ac.id"><img src="Logo.png"></a>
 <pre>
-NAMA  : Handoko Dwi Putra
-NIM   : 18360032
-INSTITUT SAINS DAN TEKNOLOGI NASIONAL
+NAMA    : Handoko Dwi Putra
+NIM     : 18360041
+Jurusan : Teknik Informatika
+Institut Sains Dan Teknologi Nasional
 </pre>
 Visit My Blog
 http://handoko38.blogspot.com
