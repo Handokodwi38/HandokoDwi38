@@ -3,8 +3,9 @@
 <font color=grey>
 <marquee><h1>WELCOME TO MY GITHUB REPOSITORY</h1></marquee>
 <br>
-  <a href="http://istn.ac.id"><img width=30% src="istn.png"></a>
+  <a href="http://istn.ac.id"><img width=20% src="istn.png"></a>
 <pre>
+<img width=20% src="istn.png">
 NAMA    : Handoko Dwi Putra
 NIM     : 18360041
 Jurusan : Teknik Informatika
